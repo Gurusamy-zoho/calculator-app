@@ -1,0 +1,40 @@
+body{
+    background-color: whitesmoke;
+}
+
+#mainContainer{
+    width: 330px;
+    height: 470px;
+    border: 1.5px solid gray;
+    margin: 15vh auto 0 auto;
+    border-radius: 5px;
+
+}
+
+#inputBox{
+    width: 89.5%;
+    height: 50px;
+    margin-top: 10px;
+    border-radius: 5px;
+    margin-left: 6px;
+    font-size: 30px;
+    padding-left: 10px;
+    padding-right: 10px;
+    text-align: right;
+    
+}
+
+button{
+    cursor: pointer;
+    width: 65px;
+    height: 65px;
+    margin-bottom: 10px;
+    margin-left: 11px;
+    border-radius: 5px;
+    border: 1px solid gray;
+   
+}
+
+.button:active{
+    
+}
